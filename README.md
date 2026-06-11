@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sirius Anthony, my chinese name is Sha.L.D
-- 👀 I’m interested in Biology & Green Energy & Sports
+- 👋 Hi, I’m LD
+- 👀 I’m interested in Clean Energy & Sports
 - 🌱 I’m currently learning Electric Engineering & Hydrogen
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
