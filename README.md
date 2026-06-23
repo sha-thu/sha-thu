@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LD
+- 👋 Hi, I’m sha-thu
 - 👀 I’m interested in Clean Energy & Sports
 - 🌱 I’m currently learning Electric Engineering & Hydrogen
 - 💞️ I’m looking to collaborate on ...
